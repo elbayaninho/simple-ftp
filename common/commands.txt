@@ -1,0 +1,11 @@
+-----------------Liste des commandes disponibles pour myftp-----------------
+1- pwd ==> Affiche le répertoire courant (de l'environnement) du serveur
+2- lpwd ==> Affiche le répertoire courant (de l'environnement) du client
+3- cd repertoire ==> Change le répertoire courant du serveur en repertoire
+4- lcd repertoire ==> Change le répertoire courant du client en repertoire
+5- ls ==> Affiche le contenu du répertoire courant du serveur
+6- lls ==> Affiche le contenu du répertoire courant du client
+7- get fichier ==> 'transfère' le fichier fichier du serveur vers le client
+8- put fichier ==> 'transfère' le fichier fichier du client vers le serveur
+9- bye ==> termine la session de transfert de fichier
+----------------------------------------------------------------------------
